@@ -43,7 +43,7 @@ border-color: black;
 background-color: #e5d198
 }
 
-@media (min-width: 767px) and (max-width:992px) {
+@media (min-width: 768px) and (max-width:992px) {
 	#col-2{
 		width:47%;
 	}
@@ -54,7 +54,7 @@ background-color: #e5d198
 		width:97%;
 	}
 }
-@media (max-width: 766px) {
+@media (max-width: 767px) {
 section > div {
 	clear: both;
 	width: 97%;
