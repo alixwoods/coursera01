@@ -45,10 +45,10 @@ background-color: #e5d198
 
 @media (min-width: 767px) and (max-width: 991px) {
 	#col-2{
-		width:46.5%;
+		width:46%;
 	}
 	#col-1 {
-		width:46.5%;
+		width:46%;
 	}
 	#col-3 {
 		width:97%;
